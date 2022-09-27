@@ -1,0 +1,3 @@
+--Supplier from US to customer in Asia
+--LIKE 1997
+-- revenue lineitem(l_extendedprice*(1-l_discount) / 
